@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.Dh6celcD-c02d5294.js";function t(e,t){return{description:`An eight-course seasonal tasting menu on Rue de Bretagne, india. Dinner Tuesday to Saturday, ₹145 per guest with optional wine pairing.`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/wK4dlSZIBdgY5Sa81cawjS4ZTc.jpg`,title:`Royal Tangerine — Tasting Menu Restaurant and Wine Room in india`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.BAAK9GIV.mjs.map
